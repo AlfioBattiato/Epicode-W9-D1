@@ -1,0 +1,14 @@
+button{
+    color: white;
+    border: none;
+    padding-inline: 2rem;
+    padding-block: 1rem;
+    margin-right: 10px;
+}
+.dark{
+    background-color: black;
+
+}
+.success{
+    background-color: rgb(1, 175, 1);
+}
