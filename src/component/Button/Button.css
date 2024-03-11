@@ -1,9 +1,10 @@
 button{
     color: white;
     border: none;
-    padding-inline: 2rem;
-    padding-block: 1rem;
+    padding-inline: 1rem;
+    padding-block: 0.5rem;
     margin-right: 10px;
+    cursor: pointer;
 }
 .dark{
     background-color: black;
